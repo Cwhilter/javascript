@@ -69,7 +69,7 @@
     console.log(foo[0], bar[0]); // => 9, 9
     ```
 
-**[⬆ 返回顶部](#table-of-contents)**
+**[⬆ 返回顶部](#目录)**
 
 ## 对象
 
@@ -118,7 +118,7 @@
     };
     ```
 
-**[⬆ 返回顶部](#table-of-contents)**
+**[⬆ 返回顶部](#目录)**
 
 ## 数组
 
@@ -170,7 +170,7 @@
     }
     ```
 
-**[⬆ 返回顶部](#table-of-contents)**
+**[⬆ 返回顶部](#目录)**
 
 
 ## 字符串
@@ -254,7 +254,7 @@
     }
     ```
 
-**[⬆ 返回顶部](#table-of-contents)**
+**[⬆ 返回顶部](#目录)**
 
 
 ## 函数
@@ -312,7 +312,7 @@
     }
     ```
 
-**[⬆ 返回顶部](#table-of-contents)**
+**[⬆ 返回顶部](#目录)**
 
 
 
@@ -348,7 +348,7 @@
     var isJedi = getProp('jedi');
     ```
 
-**[⬆ 返回顶部](#table-of-contents)**
+**[⬆ 返回顶部](#目录)**
 
 
 ## 变量
@@ -457,7 +457,7 @@
     }
     ```
 
-**[⬆ 返回顶部](#table-of-contents)**
+**[⬆ 返回顶部](#目录)**
 
 
 ## 提前
@@ -543,7 +543,7 @@
 
   - 更多请点击 [Ben Cherry](http://www.adequatelygood.com/) 写的 [JavaScript Scoping & Hoisting](http://www.adequatelygood.com/2010/2/JavaScript-Scoping-and-Hoisting)
 
-**[⬆ 返回顶部](#table-of-contents)**
+**[⬆ 返回顶部](#目录)**
 
 
 
@@ -592,7 +592,7 @@
 
   - 更多信息请看 Angus Croll 的 [Truth Equality and JavaScript](http://javascriptweblog.wordpress.com/2011/02/07/truth-equality-and-javascript/#more-2108)。
 
-**[⬆ 返回顶部](#table-of-contents)**
+**[⬆ 返回顶部](#目录)**
 
 
 ## 块
@@ -621,7 +621,7 @@
     }
     ```
 
-**[⬆ 返回顶部](#table-of-contents)**
+**[⬆ 返回顶部](#目录)**
 
 
 ## 注释
@@ -714,7 +714,7 @@
     }
   ```
 
-**[⬆ 返回顶部](#table-of-contents)**
+**[⬆ 返回顶部](#目录)**
 
 
 ## 空白符
@@ -829,7 +829,7 @@
         .call(tron.led);
     ```
 
-**[⬆ 返回顶部](#table-of-contents)**
+**[⬆ 返回顶部](#目录)**
 
 ## 逗号
 
@@ -891,7 +891,7 @@
     ];
     ```
 
-**[⬆ 返回顶部](#table-of-contents)**
+**[⬆ 返回顶部](#目录)**
 
 
 ## 分号
@@ -920,7 +920,7 @@
 
     [阅读更多](http://stackoverflow.com/a/7365214/1712802).
 
-**[⬆ 返回顶部](#table-of-contents)**
+**[⬆ 返回顶部](#目录)**
 
 
 ## 类型显式转换 & 类型隐式转换
@@ -1003,7 +1003,7 @@
     var hasAge = !!age;
     ```
 
-**[⬆ 返回顶部](#table-of-contents)**
+**[⬆ 返回顶部](#目录)**
 
 
 ## 命名约定
@@ -1118,7 +1118,7 @@
 
   - **注意：** IE8 及以下版本里具名函数有些怪异。更多请看 [http://kangax.github.io/nfe/](http://kangax.github.io/nfe/)。
 
-**[⬆ 返回顶部](#table-of-contents)**
+**[⬆ 返回顶部](#目录)**
 
 
 ## 存取器
@@ -1172,7 +1172,7 @@
     };
     ```
 
-**[⬆ 返回顶部](#table-of-contents)**
+**[⬆ 返回顶部](#目录)**
 
 
 ## 构造器
@@ -1257,7 +1257,7 @@
     };
     ```
 
-**[⬆ 返回顶部](#table-of-contents)**
+**[⬆ 返回顶部](#目录)**
 
 
 ## 事件
@@ -1288,7 +1288,7 @@
     });
     ```
 
-  **[⬆ 返回顶部](#table-of-contents)**
+  **[⬆ 返回顶部](#目录)**
 
 
 ## 模块
@@ -1319,7 +1319,7 @@
     }(this);
     ```
 
-**[⬆ 返回顶部](#table-of-contents)**
+**[⬆ 返回顶部](#目录)**
 
 
 ## jQuery
@@ -1381,14 +1381,14 @@
     $sidebar.find('ul').hide();
     ```
 
-**[⬆ 返回顶部](#table-of-contents)**
+**[⬆ 返回顶部](#目录)**
 
 
 ## ECMAScript 5 兼容性
 
   - 请点击 [Kangax](https://twitter.com/kangax/)'s ES5 [compatibility table](http://kangax.github.com/es5-compat-table/)
 
-**[⬆ 返回顶部](#table-of-contents)**
+**[⬆ 返回顶部](#目录)**
 
 
 ## 测试
@@ -1401,7 +1401,7 @@
     }
     ```
 
-**[⬆ 返回顶部](#table-of-contents)**
+**[⬆ 返回顶部](#目录)**
 
 
 ## 性能
@@ -1415,7 +1415,7 @@
   - [Long String Concatenation](http://jsperf.com/ya-string-concat)
   - Loading...
 
-**[⬆ 返回顶部](#table-of-contents)**
+**[⬆ 返回顶部](#目录)**
 
 
 ## 资料
@@ -1475,7 +1475,7 @@
   - [Dustin Diaz](http://dustindiaz.com/)
   - [nettuts](http://net.tutsplus.com/?s=javascript)
 
-**[⬆ 返回顶部](#table-of-contents)**
+**[⬆ 返回顶部](#目录)**
 
 ## 其他
 
@@ -1562,6 +1562,6 @@ CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
 TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
 SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-**[⬆ 返回顶部](#table-of-contents)**
+**[⬆ 返回顶部](#目录)**
 
 # };
