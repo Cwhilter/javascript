@@ -83,7 +83,7 @@
     var item = {};
     ```
 
-  - 不要用[保留字](http://es5.github.io/#x7.6.1)作键名。IE8 下行不通。[更多详情](https://github.com/airbnb/javascript/issues/61)
+  - 不要用[保留字](http://es5.github.io/#x7.6.1)作键名。IE8 下不可行。[更多详情](https://github.com/airbnb/javascript/issues/61)
 
     ```javascript
     // 劣
@@ -399,7 +399,7 @@
         i;
     ```
 
-  - 在变量作用域顶部声明变量。这能避免变量声明和赋值的提前有关的问题。
+  - 在变量作用域顶部声明变量。这能避免变量声明和赋值的提前相关的问题。
 
     ```javascript
     // 劣
@@ -465,8 +465,7 @@
   - 变量声明被提前到它们的作用域顶部，但赋值行为并没有一样待遇。
 
     ```javascript
-    // 我们知道这有问题(假定没有
-    // notDefined 的全局变量)
+    // 我们知道这有问题(假定没有 notDefined 全局变量)
     function example() {
       console.log(notDefined); // => 抛出 ReferenceError 错误
     }
