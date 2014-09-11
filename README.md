@@ -1333,7 +1333,7 @@
     var $sidebar = $('.sidebar');
     ```
 
-  - Cache jQuery lookups.
+  - 缓存 jQuery 查询。
 
     ```javascript
     // 劣
